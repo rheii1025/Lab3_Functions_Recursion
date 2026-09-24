@@ -1,6 +1,6 @@
 # main.py
 
-import grades
+import Lab3_Functions_Mendoza.grades as grades
 
 # Student Identity Configuration
 LAST_NAME = "Mendoza"
